@@ -11,4 +11,8 @@ public class App {
     public static String getHi() {
         return "hi";
     }
+
+    public static String getT() {
+        return "t";
+    }
 }
